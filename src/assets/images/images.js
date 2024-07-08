@@ -1,0 +1,5 @@
+export {default as iphone13} from "./iphone9.jpg"
+export {default as iphonex}   from  "./iphonex.jpg"
+export {default as last}  from "./last.jpg"
+export {default as oppo} from   "./oppo.jpg"
+export {default as samsung}  from "./samsung.jpg"
